@@ -4,6 +4,10 @@
 
 <img src="https://storage.googleapis.com/kochava-web/2016/07/Kochava-horizontal-black-800x154.png" width="260" />
 
+## Deprecation Notice
+
+This module was deprecated on March 9th, 2023.  Please contact support@kochava.com if you have any questions.
+
 ## KochavaAdNetwork
 
 The KochavaAdNetwork module is an optional module within the Kochava SDK providing advertising network support, and is a high-level interface to Apple's SKAdNetwork.
